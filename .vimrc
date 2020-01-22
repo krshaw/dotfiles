@@ -15,3 +15,4 @@ noremap  <Right> ""
 noremap! <Right> <Esc>
 set number relativenumber
 set nu rnu
+inoremap {<CR> {<CR>}<Esc>ko
